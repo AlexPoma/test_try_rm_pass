@@ -1,2 +1,2 @@
-user: ***REMOVED***
-pass: ***REMOVED***
+user: ******
+pass: ******
